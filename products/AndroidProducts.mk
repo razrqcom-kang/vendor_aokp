@@ -22,6 +22,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/mako.mk \
     $(LOCAL_DIR)/manta.mk \
     $(LOCAL_DIR)/maserati.mk \
+    $(LOCAL_DIR)/mb886.mk \
     $(LOCAL_DIR)/mint.mk \
     $(LOCAL_DIR)/odin.mk \
     $(LOCAL_DIR)/p930.mk \
